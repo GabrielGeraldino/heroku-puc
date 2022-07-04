@@ -1,0 +1,20 @@
+{
+  "name": "heroku-puc",
+  "version": "1.0.0",
+  "description": " ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielGeraldino/heroku-puc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielGeraldino/heroku-puc/issues"
+  },
+  "homepage": "https://github.com/GabrielGeraldino/heroku-puc#readme"
+}
