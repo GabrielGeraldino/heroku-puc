@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/GabrielGeraldino/heroku-puc/issues"
   },
-  "homepage": "https://github.com/GabrielGeraldino/heroku-puc#readme"
+  "homepage": "https://github.com/GabrielGeraldino/heroku-puc#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
